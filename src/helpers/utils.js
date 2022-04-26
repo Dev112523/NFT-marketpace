@@ -9,4 +9,4 @@ export const formatPrice = (price) => {
   price = Math.round(price * precision) / precision;
    
   return price;
-};
+};asdasd
